@@ -1,0 +1,22 @@
+{
+  "name": "cyberfuel-test",
+  "version": "1.0.0",
+  "description": "prueba tecnica para CyberFuel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeRiv/prueba-tecnica-cf.git"
+  },
+  "author": "Felipe Rivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeRiv/prueba-tecnica-cf/issues"
+  },
+  "homepage": "https://github.com/FelipeRiv/prueba-tecnica-cf#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  }
+}
