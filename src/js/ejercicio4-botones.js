@@ -1,3 +1,7 @@
+/* 
+    * Ejercicio 4 Realizar una página HTML (puede ser dentro del mismo laravel o separada queda a discreción del desarrollador) donde muestre dos botones, la dinámica es: si presiono el botón #1 cambia el texto y color del botón #2, y presiono el botón #2, cambia el texto y color del botón #1. Queda a discreción del desarrollador el uso de JQUERY o JAVASCRIPT
+*/
+
 /**
  * 
  * @param {*} selector String: #id or .class selector to get the DOM element

@@ -1,5 +1,5 @@
 /* 
-    * EJ5 Realizar en javascript una función llamada  “juego de letras”, dicha función recibe una cadena de caracteres como parámetro;  procesa dicha string para mostrar en consola del navegador cada letra intercalada en minúsculas y mayúsculas. “EsTa Es Mi PrUeBa En CyBeRfUeL” e indicar cuanto caracteres la conforman, es decir la longitud de la cadena recibida.
+    * Ejercicio 5 Realizar en javascript una función llamada  “juego de letras”, dicha función recibe una cadena de caracteres como parámetro;  procesa dicha string para mostrar en consola del navegador cada letra intercalada en minúsculas y mayúsculas. “EsTa Es Mi PrUeBa En CyBeRfUeL” e indicar cuanto caracteres la conforman, es decir la longitud de la cadena recibida.
 
 */
 
