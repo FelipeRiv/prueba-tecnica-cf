@@ -53,10 +53,13 @@ const intercalarCase = (frase) => {
 };
 
 
+// * LLamado a la funcion para imprimir por consola
+console.table(juegoDeLetras(prompt('Digita una palabra o frase para imprimir en consola del navegador', 'esta es mi prueba en cyberfuel')));
 
 
-const {fraseIntercalada, longitud} = juegoDeLetras('  esta    es mi prueba   en    cyberfuel 123 ');
 
-console.table(juegoDeLetras('  esta    es mi prueba   en    cyberfuel  '));
+// const {fraseIntercalada, longitud} = juegoDeLetras('  esta    es mi prueba   en    cyberfuel 123 ');
 
-console.log(`Frase Intercalada: ${fraseIntercalada} - Longitud: ${longitud} caracteres`);
+// console.table(juegoDeLetras('  esta    es mi prueba   en    cyberfuel  '));
+
+// console.log(`Frase Intercalada: ${fraseIntercalada} - Longitud: ${longitud} caracteres`);
